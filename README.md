@@ -3,6 +3,9 @@ MNIST Digit Recognizer with 99.72% Accuracy using Keras
 
 Scoring done on Kaggle ( https://www.kaggle.com/mukultiwari )
 
+![mnist](https://user-images.githubusercontent.com/26801020/34263592-033d51e4-e696-11e7-8937-71fc86eea3c2.png)
+
+
 # Dataset
 The dataset used for the project is 'The MNIST database of handwritten digits' has a training set of 60,000 examples, and a test set of 10,000 examples.
 
